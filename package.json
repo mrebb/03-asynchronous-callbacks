@@ -1,0 +1,32 @@
+{
+  "name": "03-asynchronous-callbacks",
+  "version": "1.0.0",
+  "description": "<img src=\"https://travis-ci.com/mrebb/02-tools-and-context.svg?branch=master\">",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrebb/03-asynchronous-callbacks.git"
+  },
+  "author": "Madhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrebb/03-asynchronous-callbacks/issues"
+  },
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "fs": "0.0.1-security"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "homepage": "https://github.com/mrebb/03-asynchronous-callbacks#readme",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
