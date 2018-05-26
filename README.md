@@ -1,5 +1,5 @@
 
-<img src="https://travis-ci.com/mrebb/02-tools-and-context.svg?branch=master">
+<img src="https://travis-ci.com/mrebb/03-asynchronous-callbacks.svg?branch=master">
 
 File Reader module
 =================
